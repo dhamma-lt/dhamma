@@ -8,15 +8,18 @@ export default defineConfig({
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: 'Home', link: '/' },
-      { text: 'Examples', link: '/markdown-examples' }
+      { text: 'Įvadas', link: '/intro' }
     ],
 
     sidebar: [
       {
         text: 'Examples',
         items: [
-          { text: 'Markdown Examples', link: '/markdown-examples' },
-          { text: 'Runtime API Examples', link: '/api-examples' }
+          { text: 'Pradžia', link: '/intro' },
+          { text: 'Asmeninė higiena', link: '/hygene' },
+          { text: 'Maisto likučiai', link: '/leftovers' },
+          { text: 'Tikslai', link: '/objectives' },
+          { text: 'Sauga', link: '/safety' },
         ]
       }
     ],

@@ -1,0 +1,3 @@
+# Įvadas
+
+Mūsų virtuvėje gaminamam ir tiekiamam maistui yra keliami tokie patys maisto saugos reikalavimai kaip ir viešojo maitinimo įstaigoms (pvz., valgykloms, kavinėms, restoranams). Nors tikimybė nėra labai aukšta, bet praktiškai bet kuriuo metu mus gali tikrinti tam tikros valstybinės įstaigos (pvz., Valstybinė maisto ir veterinarijos tarnyba, VMVT), kurios jei ras pažeidimus – gali mums uždrausti gaminti maistą ir kursai vykti negalės). Todėl yra svarbu laikytis toliau šioje atmintinėje minimų maisto gamybos ir higienos reikalavimų.

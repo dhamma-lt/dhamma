@@ -1,6 +1,7 @@
 ---
 # https://vitepress.dev/reference/default-theme-home-page
 layout: home
+# Dėkojame, kad ketinate skirti tam tikrą laiko tarpą tarnystei virtuvėje. Ši atmintinė yra skirta supažindinti ar priminti tam tikrus bazinius tarnystės virtuvėje aspektus. 
 
 hero:
   name: "Dhamma Līḷhā Virtuvės Dokumentai"
@@ -8,18 +9,11 @@ hero:
   tagline: work-in-progress
   actions:
     - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
+      text: Įvadas
+      link: /intro
     - theme: alt
-      text: API Examples
-      link: /api-examples
+      text: Tikslai
+      link: /objectives
 
-features:
-  - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
 ---
 
