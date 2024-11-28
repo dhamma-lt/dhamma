@@ -3,8 +3,8 @@
 layout: home
 
 hero:
-  name: "Dhamma Līḷhā Virtuvės Dokumentai"
-  text: "Esminė informacija virtuvės tarnautojams"
+  name: "Dhamma Līḷhā Kitchen Docs"
+  text: "Essential info for kitchen servers"
   tagline: work-in-progress
   actions:
     - theme: brand
