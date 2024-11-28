@@ -5,7 +5,7 @@ layout: home
 hero:
   name: "Dhamma Līḷhā Kitchen Docs"
   text: "Essential info for kitchen servers"
-  tagline: My great project tagline
+  tagline: work-in-progress
   actions:
     - theme: brand
       text: Markdown Examples
